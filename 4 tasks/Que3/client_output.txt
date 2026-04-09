@@ -1,0 +1,25 @@
+
+=======================================================
+   🚗  EasyDrive – Customer Registration
+=======================================================
+   'Drive by the hour, any day, any time'
+=======================================================
+
+  Please provide the following details:
+
+  Full Name:   Address:   PPS Number: 
+  Note: Enter the filename of your driving licence document
+        (e.g. license.pdf or D:\Documents\license.jpg)
+  Driving Licence Document: 
+  --- Confirm your details ---
+  Name                     : John Doe
+  Address                  : 123 Main St
+  Pps Number               : 1234567A
+  License Document         : license.pdf
+
+  Submit registration? [y/n]: 
+  [CLIENT] Connecting to EasyDrive Server at 127.0.0.1:65432...
+
+  ❌ Could not connect to the server.
+     Make sure Que3_server.py is running first.
+

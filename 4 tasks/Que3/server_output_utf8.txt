@@ -1,0 +1,15 @@
+[DB] Database initialised → D:\works\4 tasks\Que3\easydrive.db
+[SERVER] EasyDrive Server listening on 127.0.0.1:65432
+[SERVER] Waiting for client connections...
+
+Traceback (most recent call last):
+  File "D:\works\4 tasks\Que3\Que3_server.py", line 122, in <module>
+    start_server()
+  File "D:\works\4 tasks\Que3\Que3_server.py", line 85, in start_server
+    conn, addr = server_socket.accept()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 295, in accept
+    fd, addr = self._accept()
+               ^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
