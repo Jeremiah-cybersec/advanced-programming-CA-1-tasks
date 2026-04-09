@@ -1,0 +1,19 @@
+
+  ======================================
+    Periodic Table Explorer (Z = 1–30)
+  ======================================
+  Hi there! Happy to help!
+
+  Provide atomic number of the element (1–30): 
+  ────────────────────────────────────────────────────
+  Atomic Number : 6
+  Name          : Carbon
+  Symbol        : C
+  Category      : Nonmetal
+  Atomic Mass   : 12.011 u
+  Info          : Basis of all organic life; exists as graphite, diamond, and fullerenes.
+  ──────────────────────────────────────────────────
+
+  Do you want to know more elements [y/n]? 
+  Thanks!
+
